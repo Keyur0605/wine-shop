@@ -1,0 +1,314 @@
+/* .container{
+    max-width: 1650px;
+} */
+.back{
+    background:  linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%),url('1.png');
+    width: 100%;
+    height: 713px;
+    background-size: cover;
+    z-index: 500;
+}
+.lgbtn{
+    background: transparent;
+     border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: #FFFFFF;
+    padding: 5px 30px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+#nav a{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    /* padding-left: 35px; */
+}
+#nav{
+    margin-top: 30px;
+}
+
+
+#cart{
+    padding: 25px 10px 0 0;
+
+}
+#flag{
+    padding: 25px 2px 0 10px;
+}
+#drop{
+    padding: 25px 20px 0 0;
+}
+#en{
+    padding: 25px 2px 0 2px;
+}
+#login{
+    margin-top: 25px;
+}
+#banner{
+    text-align: center;
+    margin-top: 120px;
+    color: white;
+    font-weight: bold;
+    font-size: 56px;
+    font-family:'Poppins', sans-serif;
+}
+#banner1{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 17px;
+    max-width: 1120px;
+    margin: 20px auto;
+}
+#placeholder{
+    background: transparent;
+    border: 1px solid white;
+    padding: 11px 80px;
+    border-radius: 30px 0px 0px 30px;
+    
+}
+
+#sebtn{
+    padding: 12px 40px;
+    border: 1px solid white;
+    color: #EE3D1B;
+    border-radius: 0px 30px 30px 0px;
+    font-family: 'Roboto', sans-serif;
+}
+::placeholder {
+    color:white;
+  }
+  .next{
+      float: right;
+      background: #f4664d;
+      color: white;
+      border: 1px solid #f4664d;
+      border-radius: 10px 0 0 0;
+      padding: 10px 50px;
+      margin-top: 232px;
+      font-size: 20px;
+      font-family:'Roboto', sans-serif ;
+      font-weight: 400;
+      margin-right: -14px;
+     
+  }
+  #con2{
+      padding-top: 80px;
+      padding-bottom: 80px;
+  }
+  #con3{
+      padding-top: 50px;
+      padding-bottom: 40px;
+  }
+ #winetext{
+     color: black;
+     font-family: 'Lato', sans-serif;
+     font-style: normal;
+     font-weight: 700;
+     font-size: 33px;
+ }
+ #smtext{
+     color: black;
+     font-family: 'Lato', sans-serif;
+     font-size: 15px;
+
+ }
+ #learnbtn{
+     border: 1px solid  rgba(226, 84, 71, 0.6);
+     box-sizing: border-box;
+     border-radius: 10px;;
+     background: transparent;
+     padding: 7px 40px;
+     color: rgba(226, 84, 71, 0.6) ;
+     font-size: 15px;
+     font-weight: bold;
+    word-spacing: 4px;
+    letter-spacing: 1px;
+ }
+ #wineimg{
+     max-width: 100%;
+     height: 360px;
+    float: right;
+    position: relative;
+
+ }
+ #video{
+     top: 50%;
+     transform: translateY(-50%);
+     position: absolute;
+     left: -7px;
+ }
+ #about{
+     text-align: center;
+ }
+.about{
+    background: #fafafa;
+}
+#col4{
+    padding-top: 60px;
+   
+
+}
+#abouttext{
+    color: #E25447;
+    letter-spacing: 4px;
+    font-family: 'roboto',sans-serif;
+    font-size: 15px;
+}
+#a{
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+#b{
+    text-align: center;
+    font-family: 'roboto',sans-serif;
+    font-size: 15px;
+}
+.card{
+    border-radius: 8px;
+box-sizing: border-box;
+padding: 0px 35px;
+
+}
+.cardlogo{
+    height: 48px;
+    max-width: 48px;
+    margin: 20px auto;
+}
+.card h5{
+    text-align: center;
+    font-size: 22px;
+}
+.card p{
+    
+    font-size: 12px;
+}
+#col5{
+    padding-top: 60px;
+}
+#Ourtext{
+    text-align: center;
+    color: #E25447;
+    letter-spacing: 4px;
+    font-family: 'roboto',sans-serif;
+    font-size: 15px;
+}
+#c{
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+#d{
+    text-align: center;
+    font-family: 'roboto',sans-serif;
+    font-size: 15px;
+}
+
+
+#card{
+    border: none;
+}
+.productdescription h4{
+    font-size: 20px;
+    margin-top: 15px;
+    display: inline-block;
+}
+.rating{
+    display: inline;
+    margin-left: 35px;
+}
+#productetext{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+#pricing{
+    color:#E25447;
+    font-size: 25px;
+}
+.pricing del{
+    color: black;
+    font-size: 12px;
+}
+.responsive{
+    width: 100%;
+    height: 300px
+}
+#viewbtn{
+   
+    letter-spacing: 5px;
+    border: 1px solid  rgba(226, 84, 71, 0.6);
+    box-sizing: border-box;
+    border-radius: 5px;
+    background: transparent;
+    padding: 7px 25px;
+    color:rgba(226, 84, 71) ;
+}
+.view{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+footer{
+    background: #0F1A2E;
+    color: white;
+
+}
+.company{
+    color: white;
+}
+#companytext{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Roboto',sans-serif;
+}
+#download{
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Roboto',sans-serif;
+}
+.comtext{
+    font-style: none;
+    font-weight: normal;
+    font-size: 15px;
+}
+.rules{
+    opacity: 0.5;
+    border-top: 1px solid #303C5F;
+    
+}
+.scocialimg{
+    width: 120px;
+}
+@media only screen and (max-width: 476px) {
+    #placeholder {
+        padding: 8px 5px 8px 30px;
+    }
+    #sebtn {
+        padding: 8px 20px 8px 20px;
+    }
+    #con3 {
+        padding-top: 0px;  
+    }
+    #video {
+        left: 121px;
+    }
+    #banner {
+        margin-top: 100px;
+    }
+    #login {
+        margin-top: 0px;
+    }
+  }
+ 
+  @media only screen and (max-width: 991px){
+    #navbarSupportedContent{
+        background-color: #EE3D1B;
+        text-align: center;
+    }
+        
+    }
